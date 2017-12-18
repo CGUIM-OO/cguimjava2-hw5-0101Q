@@ -1,4 +1,4 @@
-//B0544145¸êºÞ¤G¥Ò±ä¼ä©g
+//B0544145è³‡ç®¡äºŒç”²æ›¹æ½”å¦®
 public class HW5 {
 	public static void main(String[] args) {
 		Table tbl=new Table(4);
